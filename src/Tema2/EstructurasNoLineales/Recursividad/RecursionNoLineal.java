@@ -4,10 +4,10 @@ package Tema2.EstructurasNoLineales.Recursividad;
  *
  * @author karma
  */
-public class RecursionLineal {
+public class RecursionNoLineal {
 
     public static void main(String[] args) {
-        System.out.println("Suma Linear--------------------------");
+//        System.out.println("Suma Linear--------------------------");
 //        int data1[] = {4, 3, 6, 2, 8};
 //        int data2[] = {6, 5, 3, 1, 9};
 //        int data3[] = {1, 7, 5, 9, 7};
